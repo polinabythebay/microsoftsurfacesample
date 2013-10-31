@@ -1,0 +1,75 @@
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\SurfaceWindow1.baml
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\App.baml
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\App.g.cs
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2_Content.g.cs
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2_MarkupCompile.cache
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.g.resources
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.Properties.Resources.resources
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\bin\Debug\Resources\icon.png
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\bin\Debug\PolinaSoshninHW2.xml
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\bin\Debug\PolinaSoshninHW2.exe
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\bin\Debug\PolinaSoshninHW2.pdb
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.exe
+C:\Users\hcilab\AppData\Local\Temporary Projects\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.pdb
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.exe
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.pdb
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\bin\Debug\PolinaSoshninHW2.xml
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\bin\Debug\PolinaSoshninHW2.exe
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\bin\Debug\PolinaSoshninHW2.pdb
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\SurfaceWindow1.baml
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\App.baml
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\App.g.cs
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2_Content.g.cs
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2_MarkupCompile.cache
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.g.resources
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.Properties.Resources.resources
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization1.baml
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization2.baml
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization3.baml
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization1.g.cs
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization2.g.cs
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization3.g.cs
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\bin\Debug\Resources\icon.png
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.exe
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.pdb
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\bin\Debug\Resources\icon.png
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\bin\Debug\PolinaSoshninHW2.xml
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\bin\Debug\PolinaSoshninHW2.exe
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\bin\Debug\PolinaSoshninHW2.pdb
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\ResolveAssemblyReference.cache
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\SurfaceWindow1.baml
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization1.baml
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization2.baml
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization3.baml
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\App.baml
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\SurfaceWindow1.g.cs
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization1.g.cs
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization2.g.cs
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization3.g.cs
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\App.g.cs
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2_Content.g.cs
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2_MarkupCompile.cache
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.g.resources
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\PolinaSoshninHW2.Properties.Resources.resources
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\GenerateResource.read.1.tlog
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\GenerateResource.write.1.tlog
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization4.baml
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization4.g.cs
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization4.baml
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization4.g.cs
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization5.baml
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization6.baml
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization5.g.cs
+C:\Users\hcilab\Desktop\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization6.g.cs
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization5.baml
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization6.baml
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization5.g.cs
+F:\Polina\PolinaSoshninHW2\PolinaSoshninHW2\obj\Debug\TagVisualization6.g.cs
