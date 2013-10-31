@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace PolinaSoshninHW2
+namespace PolinaSoshninSurfaceSample
 {
     /// <summary>
     /// Interaction logic for App.xaml
